@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GPFlopi
-- Hi, my name is Patrik, I'm a University student who is interested in getting more familiar with Open Source contribution!
+- 👋 Hi, I’m @Bpat
+- I'm a University student who is interested in getting more familiar with Open Source contribution!
 - 📫 If you want to discuss something with me you can find me on Discord! GPflopi#0884 
 
 <!---
