@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bpat
-- I'm a University student who is interested in getting more familiar with Open Source contribution!
+- I'm a University student who is learning coding, i share some of the things i do here!
 - 📫 If you want to discuss something with me you can find me on Discord! GPflopi#0884 
 
 <!---
